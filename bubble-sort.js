@@ -1,3 +1,4 @@
+
 'use strict';
 
 process.stdin.resume();
@@ -20,7 +21,7 @@ function readLine() {
     return inputString[currentLine++];
 }
 
-/*
+/*https://www.hackerrank.com/rest/contests/master/challenges/ctci-bubble-sort/hackers/infkadeal1/download_solution
  * Complete the 'countSwaps' function below.
  *
  * The function accepts INTEGER_ARRAY a as parameter.
